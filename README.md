@@ -4,7 +4,7 @@ WordPress + MariaDB + phpMyAdmin
 
 WordPress: "http://ipcasaos:8101"
 
-phpMyAdmin: "http://ipcasaos:8081"
+phpMyAdmin: "http://ipcasaos:8081"<br>
 <strong>Admin</strong><br>
 username: root
 password nanangmrk
